@@ -1,0 +1,6 @@
+{
+  "name": "MANDIMITRA",
+  "description": "Multilingual agricultural market intelligence platform and AI price advisory chatbot for farmers in English, Hindi, and Kannada.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
